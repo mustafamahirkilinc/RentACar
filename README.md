@@ -2,6 +2,7 @@
 Techcareer.net/Back-End from Start to Finish Bootcamp/Assignment
 
 Assignment Açıklamaları:
+
 Ödev: SOLID Prensiplerine uyarak aşağıdaki projeyi yapmanız beklenmektedir.
 
 Bir araç kiralama firmasında SUV, Sedan, Hatchback tiplerinde araçlar kiralanabiliyor.
